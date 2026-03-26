@@ -1,5 +1,9 @@
-mkdir updates
-touch updates/latest.json
-git add updates/latest.json
-git commit -m "Add updates folder"
-git push
+{
+  "latest_version": "1.0.1",
+  "macos_zip_url": "https://github.com/arnoreli53/GradeTracker/releases/download/v1.0.1/GradeTracker-1.0.1-mac.zip",
+  "sha256": "PUT_REAL_SHA256_HERE",
+  "release_notes": [
+    "Fixed Tasks UI issues",
+    "Added priority rankings"
+  ]
+}
