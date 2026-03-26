@@ -1,1 +1,5 @@
-
+mkdir updates
+touch updates/latest.json
+git add updates/latest.json
+git commit -m "Add updates folder"
+git push
