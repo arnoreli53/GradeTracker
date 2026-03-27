@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.0.1",
-  "macos_zip_url": "https://github.com/arnoreli53/GradeTracker/releases/download/v1.0.1/GradeTracker-1.0.1-mac.zip",
-  "sha256": "a49787fedcb10cc626c55dc24c8c7328294e44bc6702a5b84159cbf7a1b03df0",
+  "latest_version": "1.0.2",
+  "macos_zip_url": "https://github.com/arnoreli53/GradeTracker/releases/download/v1.0.2/GradeTracker-1.0.2-mac.zip",
+  "sha256": "sha256:65d0aa79b36db5f1798d977ce4ae1b123c27694b0c4bdafc23b80dbf21a4e270",
   "release_notes": [
     "Fixed Tasks UI issues",
     "Added priority rankings"
